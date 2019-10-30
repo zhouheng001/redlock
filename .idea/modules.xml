@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ServiceToken/ServiceToken.iml" filepath="$PROJECT_DIR$/ServiceToken/ServiceToken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServiceToken1/ServiceToken1.iml" filepath="$PROJECT_DIR$/ServiceToken1/ServiceToken1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redlock.iml" filepath="$PROJECT_DIR$/redlock.iml" />
+    </modules>
+  </component>
+</project>

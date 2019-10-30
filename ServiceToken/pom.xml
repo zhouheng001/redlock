@@ -84,6 +84,12 @@
   		<artifactId>spring-boot-starter</artifactId>
   		<version>1.5.8.RELEASE</version>
   	</dependency>
+	  <dependency>
+		  <groupId>org.springframework.boot</groupId>
+		  <artifactId>spring-boot-starter-test</artifactId>
+		  <version>1.5.8.RELEASE</version>
+		  <scope>test</scope>
+	  </dependency>
   	<dependency>
   		<groupId>org.springframework.boot</groupId>
   		<artifactId>spring-boot-starter-web</artifactId>
@@ -99,5 +105,11 @@
         <artifactId>redisson</artifactId>
         <version>3.3.2</version>
     </dependency>
+	  <dependency>
+		  <groupId>junit</groupId>
+		  <artifactId>junit</artifactId>
+		  <version>4.12</version>
+		  <scope>compile</scope>
+	  </dependency>
   </dependencies>
 </project>
